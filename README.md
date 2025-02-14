@@ -1,1 +1,1 @@
-# OpenM.URLBlocker
+# OpenM.URLBlocker (OpenMaliciousURLBlocker)
